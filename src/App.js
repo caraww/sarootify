@@ -32,7 +32,7 @@ class App extends React.Component {
       .map((song) => `${song.title} - ${song.artist}`)
       .join(", ");
 
-    fetch("http://192.168.1.1:3001/gpt", {
+    fetch("http://localhost:3001/gpt", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
