@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sarootify/static/css/main.730ae72d.css",
+    "main.js": "/sarootify/static/js/main.ff4db4c4.js",
+    "static/media/Vazir-Code.ttf": "/sarootify/static/media/Vazir-Code.cefb50bf5c998486d35a.ttf",
+    "index.html": "/sarootify/index.html",
+    "main.730ae72d.css.map": "/sarootify/static/css/main.730ae72d.css.map",
+    "main.ff4db4c4.js.map": "/sarootify/static/js/main.ff4db4c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.730ae72d.css",
+    "static/js/main.ff4db4c4.js"
+  ]
+}
